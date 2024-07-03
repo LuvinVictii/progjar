@@ -1,0 +1,1 @@
+nohup python3 file_server.py &
